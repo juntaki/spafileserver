@@ -1,0 +1,2 @@
+# spafileserver
+Fileserver for SPA
